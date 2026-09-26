@@ -1,0 +1,4 @@
+lupa
+fonttools
+pillow
+numpy
